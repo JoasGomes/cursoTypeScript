@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/JoasGomes/cursoTypeScript#readme",
   "devDependencies": {
+    "@types/node": "^17.0.35",
+    "@types/validator": "^13.7.2",
     "@typescript-eslint/eslint-plugin": "^5.23.0",
     "@typescript-eslint/parser": "^5.23.0",
     "eslint": "^8.15.0",
@@ -31,5 +33,8 @@
     "typescript": "^4.6.4",
     "webpack": "^5.72.1",
     "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "validator": "^13.7.0"
   }
 }
